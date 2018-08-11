@@ -41,6 +41,6 @@ def play(board)
   until var == 8
   var += 1
   turn(board)
-  break
+  
 end
 end
